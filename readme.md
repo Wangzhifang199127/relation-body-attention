@@ -153,7 +153,7 @@ from utils.visualization import plot_pc1_heatmap, save_figure
   title={从勾股定理到 Transformer：基于关系体的注意力几何理论},
   author={王志方},
   year={2026},
-  doi={10.5281/zenodo.XXXXXXX},
+  doi={10.5281/zenodo.22952945},
   note={Preprint}
 }
 ```
