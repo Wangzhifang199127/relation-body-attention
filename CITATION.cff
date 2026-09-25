@@ -6,7 +6,7 @@ authors:
     orcid: "https://orcid.org/0009-0001-0374-3825"
 title: "从勾股定理到 Transformer：基于关系体的注意力几何理论"
 version: "1.0.0"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.22952945"
 date-released: "2026-09-24"
 license: "MIT"
 repository-code: "https://github.com/Wangzhifang199127/relation-body-attention"
