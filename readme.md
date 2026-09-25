@@ -165,7 +165,7 @@ from utils.visualization import plot_pc1_heatmap, save_figure
   title={From Pythagoras to Transformers: A Geometric Theory of Attention via the Relation Body},
   author={Wang, Zhifang},
   year={2026},
-  doi={10.5281/zenodo.XXXXXXX},
+  doi={10.5281/zenodo.22952945},
   note={Preprint}
 }
 ```
