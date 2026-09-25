@@ -1,22 +1,22 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 authors:
-  - family-names:Wang
-    given-names:Zhifang
+  - family-names: "王"
+    given-names: "志方"
     orcid: "https://orcid.org/0009-0001-0374-3825"
 title: "从勾股定理到 Transformer：基于关系体的注意力几何理论"
-version: 1.0.0
-doi: 10.5281/zenodo.XXXXXXX
-date-released: 2026-09-24
-license: MIT
-repository-code: "https://github.com/wangzhifang199127/relation-body-attention"
+version: "1.0.0"
+doi: "10.5281/zenodo.XXXXXXX"
+date-released: "2026-09-24"
+license: "MIT"
+repository-code: "https://github.com/你的用户名/relation-body-attention"
 keywords:
-  - attention mechanism
-  - interpretability
-  - relation body
-  - inner product
-  - outer product
-  - principal component analysis
-  - mixture of experts
+  - "attention mechanism"
+  - "interpretability"
+  - "relation body"
+  - "inner product"
+  - "outer product"
+  - "principal component analysis"
+  - "mixture of experts"
 abstract: >-
   本文提出一个统一的几何框架——“关系体”（Relation Body），将任意两个向量之间的关系分解为内积（相同/冗余）与外积（不同/独立）两个正交状态，并应用于 Transformer 注意力机制的可解释性研究。
