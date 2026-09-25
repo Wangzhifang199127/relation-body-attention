@@ -9,7 +9,7 @@ version: "1.0.0"
 doi: "10.5281/zenodo.XXXXXXX"
 date-released: "2026-09-24"
 license: "MIT"
-repository-code: "https://github.com/你的用户名/relation-body-attention"
+repository-code: "https://github.com/Wangzhifang199127/relation-body-attention"
 keywords:
   - "attention mechanism"
   - "interpretability"
