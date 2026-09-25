@@ -1,15 +1,15 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 authors:
-  - family-names: 王志方
-    given-names: ""
+  - family-names:Wang
+    given-names:Zhifang
     orcid: "https://orcid.org/0009-0001-0374-3825"
 title: "从勾股定理到 Transformer：基于关系体的注意力几何理论"
 version: 1.0.0
 doi: 10.5281/zenodo.XXXXXXX
 date-released: 2026-09-24
 license: MIT
-repository-code: "https://github.com/你的用户名/relation-body-attention"
+repository-code: "https://github.com/wangzhifang199127/relation-body-attention"
 keywords:
   - attention mechanism
   - interpretability
